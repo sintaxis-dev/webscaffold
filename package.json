@@ -1,0 +1,15 @@
+{
+  "name": "webscaffold",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "laravel-mix": "^6.0.49"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.18.6",
+    "mix-tailwindcss": "^1.3.0",
+    "sass": "^1.53.0",
+    "sass-loader": "12.1.0"
+  }
+}
